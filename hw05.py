@@ -1,4 +1,4 @@
-# hw04.py -path_csv example.csv -col_name Marker_Strategy
+# hw05.py -csv C:\1\user_details.csv -json C:\1\user_details.json
 import argparse
 import csv
 import json
